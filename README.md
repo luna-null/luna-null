@@ -1,13 +1,13 @@
 <h1 align="center">Autumn Luna Mable</h1>
 <h3 align="center">An aspiring software developer who likes space.</h3>
 
-- 🔭 I’m currently working on **Building a telegram bot in Rust.**
+- 🔭 I’m currently working on **rewriting the hacklet library in Rust.**
 
 - 🌱 I’m currently learning **Rust, C, C++, Assembly, Haskell**
 
 - 👯 I’m looking to collaborate on **Fixing bugs in various programs I use (waybar, sway, etc.)**
 
-- 🤝 I’m looking for help with **Building a compiler in Rust.**
+- 🤝 I’m looking for help with **Building a compiler.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luna-null](https://github.com/luna-null)
 
