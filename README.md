@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **autumnroman1997@gmail.com**
-
 - ⚡ Fun fact **I love hiking!**
 
 <h3 align="left">Connect with me:</h3>
